@@ -1,3 +1,2 @@
-# HTML POTTFOLIO
-## Lucid post url
-## twitter url
+ # https://twitter.com/adamu_linda
+# https://lucid.blog/adamulinda/post/1566654012
